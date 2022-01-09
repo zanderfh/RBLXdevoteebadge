@@ -16,3 +16,6 @@
 8. Now download the `main.py` script, and put it in said folder, along with the newly refurbished `input.txt`.
 
 9. Now all you have to do is, open your IDE, and run the script.
+
+
+(As, you are downloading your Roblox data, there is a limit of once per day), but it isn't gonna change, so it is nothing to worry about 🙂
