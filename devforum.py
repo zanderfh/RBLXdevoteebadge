@@ -1,15 +1,15 @@
 import datetime
 counter = 0
 
-file = open('devinput.txt')
+file = open('input.txt')
 
 content = file.readlines()
 
-with open("devinput.txt") as f:
+with open("input.txt") as f:
     for i, l in enumerate(f):
         pass
 len = i + 1
-# print(content[9])
+
 
 x = range(1,len)
 
