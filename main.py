@@ -45,3 +45,4 @@ for i in x:
 
 print(f"So far you have a streak of {counter} days!")
 print(f"You only need {365-counter} days until you get the Devotee badge!")
+input("Press ENTER to exit:  ")
